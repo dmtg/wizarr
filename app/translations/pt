@@ -1,0 +1,535 @@
+# Portuguese translations for PROJECT.
+# Copyright (C) 2022 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2022-10-02 17:52+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Emby <emby@sapo.pt>\n"
+"Language: pt\n"
+"Language-Team: pt <emby@sapo.pt>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.3\n"
+
+# Portuguese translations for Wizarr.
+# Copyright (C) 2022 Einsteinium
+# This file is distributed under the same license as the Wizarr project.
+# Einsteinium contact@einsteinium.fr, 2022.
+#~ msgid "english"
+#~ msgstr ""
+#~ "frenchProject-Id-Version: V1\n"
+#~ "Report-Msgid-Bugs-To: contact@einsteinium.fr\n"
+#~ "POT-Creation-Date: 2022-09-19 10:00+0100\n"
+#~ "PO-Revision-Date: 2022-09-19 10:10+0100\n"
+#~ "Last-Translator: Einsteinium contact@einsteinium.fr\n"
+#~ "Language: pt\n"
+#~ "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+#~ "MIME-Version: 1.0\n"
+#~ "Content-Type: text/plain; charset=utf-8\n"
+#~ "Content-Transfer-Encoding: 8bit\n"
+#~ "Generated-By: Babel 2.10.3\n"
+
+#~ msgid "Go to the Quality or Video settings."
+#~ msgstr "Vá a Qualidade ou definições de video"
+
+#~ msgid "Set the Remote/Internet Streaming to Maximum/Original"
+#~ msgstr "Defina a qualidade remota/Internet Streaming para Máximo/Original"
+
+# Portuguese translations for PROJECT.
+# Copyright (C) 2022 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#~ msgid "Passwords do not match."
+#~ msgstr "As palavras-passes não coincidem."
+
+#~ msgid "Username must be between 3 and 15 characters."
+#~ msgstr "O nome de utilizador deve ter entre 3 a 15 caracteres."
+
+#~ msgid "Password must be between 3 and 40 characters."
+#~ msgstr "A palavra-passe deve ter entre 3 a 40 caracteres."
+
+#~ msgid "You must select at least one library."
+#~ msgstr "Deve selecionar no minimo uma biblioteca."
+
+#~ msgid "It is likely that your token does not work."
+#~ msgstr "Parece que o seu token não está a funcionar."
+
+#~ msgid "Unable to connect to your Plex server. See Logs for more information."
+#~ msgstr ""
+#~ "Não foi possível ligar ao "
+#~ "servidor Plex. Verifique os logs "
+#~ "para mais informações."
+
+#~ msgid "Invalid Username or Password"
+#~ msgstr "Utilizdor ou palavra-passe incorrecta"
+
+#~ msgid "Invalid Password."
+#~ msgstr "Palavra-passe incorrecta."
+
+#~ msgid "That email does not match any Plex account. Please try again."
+#~ msgstr "O email introduzido não tem conta Plex. Tente novamente"
+
+#~ msgid "This user is already invited to this server."
+#~ msgstr "Este utilizador já foi convidado para este servidor."
+
+#~ msgid "The email entered appears to be invalid."
+#~ msgstr "E-mail introduzido está inválido."
+
+#~ msgid "Something went wrong. Please try again or contact an administrator."
+#~ msgstr ""
+#~ "Algo está mal."
+#~ " Por favor contacte o administrador."
+
+#~ msgid "Permission denied."
+#~ msgstr "Permissão Recusada."
+
+#~ msgid "You are attempting to do something you shouldn't be doing..."
+#~ msgstr "Está tentando fazer algo que não deveria..."
+
+#~ msgid "Something's missing."
+#~ msgstr "Algo está faltando."
+
+#~ msgid "Sorry, we can't find that page. It doesn't seem to exist!"
+#~ msgstr "Desculpe, não foi possível encontrar a página. A página não existe!"
+
+#~ msgid "Internal Server Error."
+#~ msgstr "Erro interno no servidor."
+
+#~ msgid " Something has gone wrong. Please try again later."
+#~ msgstr "Algo está mal. Por favor tente mais tarde."
+
+#~ msgid "Accept Invitation"
+#~ msgstr "Aceitar Convite"
+
+#~ msgid "Accept our invitation"
+#~ msgstr "Aceite o nosso convite"
+
+#~ msgid "We have sent an invitation to your Plex Account! Almost there!"
+#~ msgstr "Enviamos um convite para a sua conta Plex! Quase lá!"
+
+#~ msgid ""
+#~ "Click the button below to be taken"
+#~ " to Plex, here you will see an"
+#~ " invitation from us."
+#~ msgstr ""
+#~ "Clique no botão abaixo para ser reencaminho"
+#~ "para a sua conta plex, verá "
+#~ "um convite da nossa parte, "
+#~ "para si."
+
+#~ msgid "Accept"
+#~ msgstr "Aceitar"
+
+#~ msgid "Next"
+#~ msgstr "A Seguir"
+
+#~ msgid "Invite User"
+#~ msgstr "Convidar Utilizador"
+
+#~ msgid "Attention!"
+#~ msgstr "Atenção !"
+
+#~ msgid "Update available. Click here."
+#~ msgstr "Atualização Disponível. Clique aqui."
+
+#~ msgid "Invite user"
+#~ msgstr "Convidar um utilizador"
+
+#~ msgid ""
+#~ "Environment Variables are being deprecated "
+#~ "and replaced by a secure sign-up."
+#~ " Please visit "
+#~ msgstr ""
+#~ "As variáveis ​​de ambiente estão obsoletas"
+#~ " foi substituído por um login "
+#~ "seguro. Por favor visite"
+
+#~ msgid "/settings. See Repo for more info"
+#~ msgstr "/settings. Veja o Repo para mais informações"
+
+#~ msgid "Invite Code String"
+#~ msgstr "Código de Convite"
+
+#~ msgid "(optional)"
+#~ msgstr "(Opcional)"
+
+#~ msgid "Expiration"
+#~ msgstr "Expirado"
+
+#~ msgid "1 day"
+#~ msgstr "1 dia"
+
+#~ msgid "1 week"
+#~ msgstr "1 semana"
+
+#~ msgid "1 month"
+#~ msgstr "1 mês"
+
+#~ msgid "Create Invitation"
+#~ msgstr "Criar Convite"
+
+#~ msgid "Server Settings"
+#~ msgstr "Definições de Servidor"
+
+#~ msgid "Successfully generated an Invitation!"
+#~ msgstr "Convite criado com sucesso!"
+
+#~ msgid "Great!"
+#~ msgstr "Excelente!"
+
+#~ msgid "Link has been copied to clipboard!"
+#~ msgstr "Link copiado para aréa de transferência!"
+
+#~ msgid "Back"
+#~ msgstr "Voltar"
+
+#~ msgid "Share"
+#~ msgstr "Partilhar"
+
+#~ msgid "Invite Code"
+#~ msgstr "Código de Convite"
+
+#~ msgid "Used"
+#~ msgstr "Usado"
+
+#~ msgid "Used At"
+#~ msgstr "Usado a"
+
+#~ msgid "Created"
+#~ msgstr "Criado"
+
+#~ msgid "User"
+#~ msgstr "Utilizador"
+
+#~ msgid "Expires"
+#~ msgstr "Expirado"
+
+#~ msgid "Never"
+#~ msgstr "Nunca"
+
+#~ msgid "Copy"
+#~ msgstr "Copiar"
+
+#~ msgid "Delete"
+#~ msgstr "Apagar"
+
+#~ msgid "Great! Now, let's get you invited!"
+#~ msgstr "Excelente! Agora, vamos convidar!"
+
+#~ msgid "Join the Plex Server"
+#~ msgstr "Aderir ao servidor Plex"
+
+#~ msgid "Your Plex email"
+#~ msgstr "Seu e-mail do plex"
+
+#~ msgid "Oops!"
+#~ msgstr "Oops !"
+
+#~ msgid "Join"
+#~ msgstr "Aderir"
+
+#~ msgid "Don't have a Plex account, yet?"
+#~ msgstr "Não tem conta plex, ainda?"
+
+#~ msgid "Get one here."
+#~ msgstr "Obtenha aqui uma."
+
+#~ msgid "Login"
+#~ msgstr "Conecte-se"
+
+#~ msgid "Username"
+#~ msgstr "Nome de Utilizador"
+
+#~ msgid "Password"
+#~ msgstr "Palavra-passe"
+
+#~ msgid "Remember me"
+#~ msgstr "Lembrar-me"
+
+#~ msgid "Sign in"
+#~ msgstr "Identificar-se"
+
+#~ msgid "Setup Wizarr"
+#~ msgstr "Assistente de Configuração"
+
+#~ msgid "Confirm password"
+#~ msgstr "Confirme a palavra-passe"
+
+#~ msgid "Create an account"
+#~ msgstr "Criar uma conta"
+
+#~ msgid "Requesting Media"
+#~ msgstr "Pedido de contéudo multimédia"
+
+#~ msgid ""
+#~ "Our server already contains a selection"
+#~ " of media to choose from. Can't "
+#~ "find anything you like? No Problem! "
+#~ "We have a fully automatic request "
+#~ "system available!"
+#~ msgstr ""
+#~ "Nosso servidor já contém uma seleção "
+#~ "de filmes e séries para escolher, Não "
+#~ "encontra o que quer? Não há problema!"
+#~ "Nós temos um sistema automático de pedidos! "
+#~ "Sistema Disponível"
+
+
+#~ msgid "Plex Requests"
+#~ msgstr "Pedidos Plex"
+
+#~ msgid "Request any available Movie or Tv Show"
+#~ msgstr "Peça qualquer filme ou série"
+
+#~ msgid "Requested media will be automatically downloaded and added to server"
+#~ msgstr ""
+#~ "O conteúdo será automicamente descarregado "
+#~ "e adicionado ao servidor plex"
+
+#~ msgid "If enabled, receive notifications"
+#~ msgstr "Se ativado, receberá notificações"
+
+#~ msgid "*Depending availability"
+#~ msgstr "*Dependendo da disponibilidade"
+
+#~ msgid "Check it Out"
+#~ msgstr "Verifique"
+
+#~ msgid "Change Server Settings"
+#~ msgstr "Modificar definições do Servidor"
+
+#~ msgid "Plex Display Name"
+#~ msgstr "Nome do Servidor Plex"
+
+#~ msgid "Plex URL"
+#~ msgstr "Enderenço do Servidor Plex"
+
+#~ msgid "Plex Token"
+#~ msgstr "Token do Plex"
+
+#~ msgid "Plex Libraries"
+#~ msgstr "Biblioteca do Plex"
+
+#~ msgid "Scan For Libraries"
+#~ msgstr "Pesquise na biblioteca"
+
+#~ msgid "Request instance (Ombi, Overseerr...)"
+#~ msgstr "Sistema de Pedido de Conteúdo (Ombi, Overseerr...)"
+
+#~ msgid "Verify and Confirm"
+#~ msgstr "Verificar e confirmar"
+
+#~ msgid "How to Use Plex?"
+#~ msgstr "Como utilizar o Plex?"
+
+#~ msgid ""
+#~ "If you have accepted the email "
+#~ "invitation from Plex, should be ready"
+#~ " to start watching!"
+#~ msgstr ""
+#~ "Se aceitou o convite por e-mail do Plex, "
+#~ " está pronto para começar a assistir!"
+
+#~ msgid "Eh, So, What is Plex exactly??"
+#~ msgstr "Ei, então, o que é Plex exatamente??"
+
+#~ msgid ""
+#~ "Good Question! Plex is a piece of"
+#~ " software that helps people share "
+#~ "media with each other. If you are"
+#~ " here, someone wants to share their"
+#~ " library with you! You'll be able "
+#~ "to watch whatever they have on "
+#~ "their server!"
+#~ msgstr ""
+#~ "Boa pergunta! Plex é um software "
+#~ "que ajuda as pessoas a compartilhar "
+#~ "conteúdo multimédia entre si. "
+#~ "Se está aqui, alguém quer compartilhar"
+#~ " a sua biblioteca contigo! "
+#~ "Poderá assistir ao conteúdo disponível no servidor, "
+#~ "solicitamos que mantenha o sigilo"
+#~ "!"
+
+#~ msgid "Right, so how do I watch stuff?"
+#~ msgstr "Certo, então como faço para assistir?"
+
+#~ msgid ""
+#~ "It's easy! Plex is available on "
+#~ "almost every device! Laptops, Tablets, "
+#~ "Phones, TVs etc! All you have to"
+#~ " do is download Plex on that "
+#~ "device, sign in with your account "
+#~ "and you're pretty much good to go!"
+#~ msgstr ""
+#~ "É fácil! O Plex está disponível "
+#~ "em quase todos os dispositivos! "
+#~ "Notebooks, Tablets, Telemóveis, TVs etc! "
+#~ "Tudo o que precisa de fazer é baixar "
+#~ "o Plex nesse dispositivo, "
+#~ "fazer login com sua conta e pronto!"
+
+#~ msgid "I've logged in but I am overwhelmed with content!"
+#~ msgstr "Fiz login, mas estou sobrecarregado com o conteúdo!"
+
+#~ msgid ""
+#~ "Yes, well, Plex is a free service,"
+#~ " and so therefore, they have to "
+#~ "make money somehow. The way they "
+#~ "do so, is by pushing their own "
+#~ "content before the content of the "
+#~ "server you are joining."
+#~ msgstr ""
+#~ "Sim, bem, o Plex é um serviço gratuito e, portanto, "
+#~ " eles precisam ganhar dinheiro de alguma forma. "
+#~ " A maneira como eles fazem isso é mostrando seu próprio conteúdo antes"
+#~ " do conteúdo do servidor ao qual está entrando."
+
+
+#~ msgid "Don't be afraid however, this is easily fixable!"
+#~ msgstr "Não tenha medo, no entanto, isso é facilmente resolvido!"
+
+#~ msgid "On your left, you should see a menu. Click on the "
+#~ msgstr "À sua esquerda, você deve ver um menu. Clique no"
+
+#~ msgid "Expand"
+#~ msgstr "Expandir"
+
+#~ msgid ""
+#~ "button. You will be presented will "
+#~ "all the types of media you have"
+#~ " access to."
+#~ msgstr ""
+#~ "Botão, será apresentado todos "
+#~ "os tipos de conteúdo que tem acesso "
+
+#~ msgid ""
+#~ "We would recommend hiding all content"
+#~ " put forward by Plex. To do "
+#~ "this, select all the content types "
+#~ "you don't want (such as 'Movies "
+#~ "and TV On Plex') and 'Unpin' them"
+#~ " from your home."
+#~ msgstr ""
+#~ "Recomendamos ocultar todo o conteúdo"
+#~ " apresentado pelo Plex. Para"
+#~ " fazer isso, selecione todos os tipos de conteúdo "
+#~ "que não deseja (como 'Filmes e TV no Plex')"
+#~ " clique em UNPIN "
+#~ " para remover da sua página principal."
+
+#~ msgid "Now that everything we"
+#~ msgstr "Agora que tudo que nós"
+
+#~ msgid "don't"
+#~ msgstr "Não"
+
+#~ msgid "want is out of the way, we can focus on the things we "
+#~ msgstr ""
+#~ "queremos está fora do caminho,  "
+#~ " podemos nos concentrar nas coisas "
+
+#~ msgid "do"
+#~ msgstr "que"
+
+#~ msgid " want!"
+#~ msgstr "queremos"
+
+#~ msgid "How can I make sure to have the best experience?"
+#~ msgstr "Como posso ter certeza de ter a melhor experiência?"
+
+#~ msgid ""
+#~ "By default, Plex plays everything at "
+#~ "a very low quality, which is a "
+#~ "shame! Again, this is easily remedied."
+#~ msgstr ""
+#~ "Por padrão, o Plex reproduz tudo com "
+#~ " uma qualidade muito baixa, "
+#~ "o que é uma pena! Novamente,"
+#~ "isso é facilmente resolvido."
+
+#~ msgid "Go to the Plex "
+#~ msgstr "Vá ao plex"
+
+#~ msgid "Settings "
+#~ msgstr "Definições de Servidor"
+
+#~ msgid ""
+#~ "page. This is usually in the top"
+#~ " right hand corner, depending on the"
+#~ " device you are on."
+#~ msgstr ""
+#~ "Aceda à página de definições do plex. "
+#~ "Isso geralmente está no canto superior direito,  "
+#~ "dependendo do dispositivo em que está."
+
+
+#~ msgid "Go to the "
+#~ msgstr "Vá a"
+
+#~ msgid "Quality"
+#~ msgstr "Qualidade"
+
+#~ msgid "or"
+#~ msgstr "Ou"
+
+#~ msgid "Video"
+#~ msgstr "Vídeo"
+
+#~ msgid "settings."
+#~ msgstr "Definições"
+
+#~ msgid "Set the "
+#~ msgstr "Defina"
+
+#~ msgid "Remote/Internet Streaming"
+#~ msgstr "Remota / Internet Streaming"
+
+#~ msgid "to "
+#~ msgstr "para"
+
+#~ msgid "Maximum/Original"
+#~ msgstr "Máximo/Original"
+
+#~ msgid "Local Streaming "
+#~ msgstr "Local Streaming"
+
+#~ msgid ""
+#~ "There you go! If you experience "
+#~ "any buffering, remember that at any "
+#~ "time you can change the playback "
+#~ "quality, just as you can in "
+#~ "Youtube!"
+#~ msgstr ""
+#~ "Ai está! Se der algum buffer, "
+#~ "lembre-se de que a qualquer momento pode alterar"
+#~ " a qualidade da reprodução, assim como "
+#~ "no Youtube!"
+
+
+#~ msgid "You've been invited to join the %(name)s server!"
+#~ msgstr "Foi Convidado a utilizar o Servidor %(name)s !"
+
+#~ msgid ""
+#~ "To join our Plex server, create a"
+#~ " Plex account! Once you're done, come"
+#~ " back here!"
+#~ msgstr ""
+#~ "Para aderir ao servidor Plex, precisa de criar uma conta Plex!"
+#~ " Quando concluir o processo de criação de conta, "
+#~ " volte aqui!"
+
+#~ msgid "Create Plex Account"
+#~ msgstr "Criar conta no Plex"
+
+#~ msgid "I have a Plex Account"
+#~ msgstr "Já tenho Conta no Plex"
+
